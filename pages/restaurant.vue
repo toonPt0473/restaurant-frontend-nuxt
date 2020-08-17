@@ -5,12 +5,14 @@
         <h1>Restaurant search</h1>
       </v-col>
       <v-col cols="4">
-        <v-text-field
-          v-model="search"
-          label="ค้นหาร้านอาหารที่ตั้งอยู่ใน"
-          append-outer-icon="mdi-map-marker"
-          @click:append-outer="onSearch"
-        ></v-text-field>
+        <form v-on:submit.prevent="onSearch">
+          <v-text-field
+            v-model="search"
+            label="ค้นหาร้านอาหารที่ตั้งอยู่ใน"
+            append-outer-icon="mdi-map-marker"
+            @click:append-outer="onSearch"
+          ></v-text-field>
+        </form>
       </v-col>
     </v-row>
     <div id="map"></div>
