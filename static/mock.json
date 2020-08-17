@@ -1,0 +1,867 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CqQCHwEAAPmZOcMTCWoe2SGlaLGAknzfErS0eUACUHfqqe92-I3cb-Wr8IZyHxpDiIAJV37HXNBuiOsZpGerXPy0qB7C478nUhVg6Tv5xjjx-q6lCaUeAsS9ezEaluldYpDMKbH979gFedhFnk6gu5yopyAIp5mMSRTa7BNA1Kojt13r9iaWvl3xPBSQlTlh_3bWgqFKe-Z2-GKtT5Nrm8r6uwJ5xOth_WlWwAZ_P0iIM7qI_is_05WlCk6yMlFpH6L7sPpWQu68ckU4cJkMVxaMJqul6L3nn_uMvZBJ5hesCv1Zw0ksVYyEWYM2tTT2pIJ6lZ-NspXFJ5lmbryklevyKILOOqO1shC4WPg0YZ8DoVmHwRrRoEPo3DX_TKMYTzQoDodUaBIQNEdWUSR41goeRvGsNs7MjBoU2u2FIMqoKs556c_wZbZzvahAa-M",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8370685,
+          "lng": 100.5404038
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8384036302915,
+            "lng": 100.5418134802915
+          },
+          "southwest": {
+            "lat": 13.8357056697085,
+            "lng": 100.5391155197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "ข้าวหมูแดงนายไซ",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3464,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108127575998174895696\">poom 55</a>"
+          ],
+          "photo_reference": "CmRaAAAAIETwL2rxQkYrUmhl1Ykv6n3hm6VbmkVFtsZQezkoHwca9e7GE9i1WQTURm9Cf7rfR8vVCr4nVV6l2tc1aqghBpt_PjqUBD5Q-W_pIC7PYlLOwNSkXo3fzGfbGAdsfSMEEhAz3zUhXSk6M5mDPsXb50JMGhQyaEIRkWAnGF-6hvVzuQ0cKV-3Rg",
+          "width": 4618
+        }
+      ],
+      "place_id": "ChIJJWk-U4Wc4jARKi0t_tEqtdc",
+      "plus_code": {
+        "compound_code": "RGPR+R5 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGPR+R5"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJJWk-U4Wc4jARKi0t_tEqtdc",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1471,
+      "vicinity": "1059 ถนน ประชาชื่น แขวง วงศ์สว่าง เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8458032,
+          "lng": 100.5309079
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8471240802915,
+            "lng": 100.5321358302915
+          },
+          "southwest": {
+            "lat": 13.8444261197085,
+            "lng": 100.5294378697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "ร้านอาหารหลบแดด",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106506284551798104139\">Alis Plub</a>"
+          ],
+          "photo_reference": "CmRaAAAAgFQJVLWsaEVhqB5uMU7qMAWYh_ci0i0LQEhKisZ2tmfc4SEU5DzFTN4JCW3JESQb-zfQcibqNQ--cz9ALJgUG_5hIBNCs1U-7HtRJCMT2g2i_j_Vwc7fpLHNmgZNoiYOEhAO3y9XIZIMlMD6_eR14QaNGhTUqrpIfArvIMmxqcwLbtXgy-aiPA",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ_3PENZ6c4jARN_aTH9NrVEM",
+      "plus_code": {
+        "compound_code": "RGWJ+89 เทศบาลนครนนทบุรี อำเภอเมืองนนทบุรี นนทบุรี ประเทศไทย",
+        "global_code": "7P52RGWJ+89"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ_3PENZ6c4jARN_aTH9NrVEM",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 29,
+      "vicinity": "24 ซอย ดวงมณี 11 ตำบลบางเขน อำเภอเมืองนนทบุรี"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8220477,
+          "lng": 100.5501582
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8234384802915,
+            "lng": 100.5515288302915
+          },
+          "southwest": {
+            "lat": 13.8207405197085,
+            "lng": 100.5488308697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "ครัวบ้านสวน",
+      "place_id": "ChIJR5fb8GCc4jARA71Kh-pddI0",
+      "plus_code": {
+        "compound_code": "RHC2+R3 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RHC2+R3"
+      },
+      "rating": 4,
+      "reference": "ChIJR5fb8GCc4jARA71Kh-pddI0",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 4,
+      "vicinity": "9 ซอย วิภาวดีรังสิต 17 แยก 10-1 แขวง จตุจักร เขตจตุจักร"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8062795,
+          "lng": 100.5263084
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8076640302915,
+            "lng": 100.5276570802915
+          },
+          "southwest": {
+            "lat": 13.8049660697085,
+            "lng": 100.5249591197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "นายงี้บะหมี่ตู้ไม้ สาขา บางโพ",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102338542964404733033\">พิชิตชัย อวตาล</a>"
+          ],
+          "photo_reference": "CmRaAAAAdpn9i5bSb2nYJuDe4XJjPKSNSGBP5zPEHTZFUCGGYCuoUiAXENlGgDYOh4oTvAj7OKOj3hZQFiJEqrZHknhjGxFjpktq_KzFi0HiVy8LVTjt5cSuTNhTvZwc_xXWYMGYEhAdo6BEZeMInS4TpZkoPd12GhSm9AG08XWsM2nlVcwPiyw0IsONhg",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ_7rvqYub4jARKUejt4GwaGM",
+      "plus_code": {
+        "compound_code": "RG4G+GG กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RG4G+GG"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ_7rvqYub4jARKUejt4GwaGM",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 307,
+      "vicinity": "166/42 ถนน ประชาราษฎร์ สาย 2 แขวง บางซื่อ เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8276971,
+          "lng": 100.5283258
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8290463302915,
+            "lng": 100.5295853802915
+          },
+          "southwest": {
+            "lat": 13.8263483697085,
+            "lng": 100.5268874197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "S&P วงศ์สว่าง",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJHSCKfoOb4jAR7l9T5TquoBE",
+      "plus_code": {
+        "compound_code": "RGHH+38 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGHH+38"
+      },
+      "rating": 3.9,
+      "reference": "ChIJHSCKfoOb4jAR7l9T5TquoBE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bakery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "888/42 ชั้น 1 ถนนพิบูลสงคราม ชั้น 1 บางซื่อ"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 13.823764,
+          "lng": 100.5372935
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8250672802915,
+            "lng": 100.5386358302915
+          },
+          "southwest": {
+            "lat": 13.8223693197085,
+            "lng": 100.5359378697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "เดอะพิซซ่า คอมปะนี",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102292182754706181211\">Prince</a>"
+          ],
+          "photo_reference": "CmRaAAAA2S4nu5ew6YCtY3MWIFMVIcounHNxVxh3DusSqfQJpdVmdRboACaKNQl3XOI1rhXZmasX_w8rVL2ybr4H-iWbW3TjUR2BcCXpqTNxGhblRJbeWNdN4wbjUDH6oHa-f3HxEhACAY-3szU90lLkOple0yr_GhTYf1eFJ5UrAyWVVZIhKDBCuSAfgA",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJQzCvun2c4jARAAgdNeGuNhQ",
+      "plus_code": {
+        "compound_code": "RGFP+GW กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGFP+GW"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJQzCvun2c4jARAAgdNeGuNhQ",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 25,
+      "vicinity": "เขตบางซื่อ, เลขที่ 812/20 ซ.ประชาชื่น 24 แขวงบางซื่อ เขตบางซื่อ กทม.10800"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8293694,
+          "lng": 100.5404158
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8306906302915,
+            "lng": 100.5417801302915
+          },
+          "southwest": {
+            "lat": 13.82799266970849,
+            "lng": 100.5390821697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "salabar@home ป้อม ออโต้บาห์น",
+      "place_id": "ChIJu2iVJYac4jARQx5nYVT4zWc",
+      "reference": "ChIJu2iVJYac4jARQx5nYVT4zWc",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "vicinity": "ซอย ผาสุข แขวง จตุจักร เขตจตุจักร"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8290149,
+          "lng": 100.5293492
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8303709802915,
+            "lng": 100.5306913802915
+          },
+          "southwest": {
+            "lat": 13.8276730197085,
+            "lng": 100.5279934197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "อีสานเพลซ ร้านอาหาร",
+      "place_id": "ChIJ99nJ1H-b4jAR8CXH2CLyqrg",
+      "reference": "ChIJ99nJ1H-b4jAR8CXH2CLyqrg",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "vicinity": "949/1 รัชดาภิเษก แขวง บางซื่อ เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8271257,
+          "lng": 100.5283624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8284214802915,
+            "lng": 100.5296557302915
+          },
+          "southwest": {
+            "lat": 13.8257235197085,
+            "lng": 100.5269577697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "Bar.B.Q Plaza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2976,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111491475583803337878\">Chaisiri Toomthong</a>"
+          ],
+          "photo_reference": "CmRaAAAASzInsONeIEjKr0LZROAs_ULasPn24fDMr24da-MUfSCIeVIWqKHxFIn3IXNN8XItEaXYT-Rz1k8hofdGyERUrbAlm54nFGDHFBLYkVaac5nePd8BV_JQbbnrQAPRuoitEhB9wgVjnA09v4RvkH3N6rqWGhRUArYsbpPsBm0GpRyqcUgBwke43A",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJ2wcH7X-b4jARfvHY99SAOtk",
+      "plus_code": {
+        "compound_code": "RGGH+V8 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGGH+V8"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJ2wcH7X-b4jARfvHY99SAOtk",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 134,
+      "vicinity": "888 อาคาร วงศ์สว่างทาวน์เซ็นเตอร์ ตึก C ถนน วงศ์สว่าง แขวง บางซื่อ เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8266436,
+          "lng": 100.5284563
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8280737802915,
+            "lng": 100.5298999802915
+          },
+          "southwest": {
+            "lat": 13.8253758197085,
+            "lng": 100.5272020197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "บาร์บีคิว พลาซ่า สาขาเซ็นทรัล วงศ์สว่าง",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3968,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105359838543665032930\">Pty L</a>"
+          ],
+          "photo_reference": "CmRaAAAAbuQj_RxNXgSlPc8zNtCllsEy7rVGBfUqVM7FJFec4W-jSZFefnQpKDrUlFD6AvVFDkzfa4-VLrXPggPUUgnDRQx_tB0gLGfK7XUqh4uK9bLEgnTubJ-DNjcEtX0ao9mTEhD24R3bR0x1HFCK_Pyz070rGhSeTXiB2FZ5S2m0h5UNaCtyS0ABcg",
+          "width": 2976
+        }
+      ],
+      "place_id": "ChIJnQmYtX-b4jAR5-_ZE6MIhGM",
+      "plus_code": {
+        "compound_code": "RGGH+M9 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGGH+M9"
+      },
+      "price_level": 2,
+      "rating": 3.5,
+      "reference": "ChIJnQmYtX-b4jAR5-_ZE6MIhGM",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 2,
+      "vicinity": "ซอย กรุงเทพ-นนทบุรี 52 แขวง วงศ์สว่าง เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8265241,
+          "lng": 100.5284724
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8279766802915,
+            "lng": 100.5299420302915
+          },
+          "southwest": {
+            "lat": 13.8252787197085,
+            "lng": 100.5272440697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "Hachiban Ramen",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114903305133695763373\">Hudchewman Teenoi</a>"
+          ],
+          "photo_reference": "CmRaAAAAG61N6bi9vIRjbv2am8-AQi5Nz2CRfN5whJ4RNzoGlwF8nihjbm_IqgJYJq2uCbnqT8YIWDO3NSOYDUehi9IgPsVsY0fgZoYaSpevh0imanYtj1wLPPIe91EWLR1C3L9rEhDgZkKiG7Daoh3_KNCskhNMGhSimZKrgD6Ev1kNKNPAirFccyBDfQ",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJ-SYT9H-b4jARRGe_nudjKlk",
+      "plus_code": {
+        "compound_code": "RGGH+J9 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGGH+J9"
+      },
+      "reference": "ChIJ-SYT9H-b4jARRGe_nudjKlk",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "vicinity": "888, Big C Wongsawang, 1st Floor, Room B101, Phibun Songkham Road, Bang Sue, Khet Bang Sue, Bangkok, 10800"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8265925,
+          "lng": 100.5275477
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8279096802915,
+            "lng": 100.5290618302915
+          },
+          "southwest": {
+            "lat": 13.8252117197085,
+            "lng": 100.5263638697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "name": "Black Canyon บิ๊กซี วงศ์สว่าง",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1108,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111740106359115018830\">มอคคา กลาเซีย</a>"
+          ],
+          "photo_reference": "CmRaAAAATDQwRNhSaiO-TJ0eTctAEIH7903CYOEtE_ioKXcZu44KH_o0uBZTQe5x0vi0_I9f2Bt9h4lik79lclpgNQ_v3ixbDPIMmZ-KWbIgR0SgiVvMklXHrcdNb3G8wQMPGY25EhD1uQKLAglec7mf5p72LXCtGhTX_F46t4MxWv2crn6juoa1GSgjNw",
+          "width": 1478
+        }
+      ],
+      "place_id": "ChIJ__8Pq3mc4jARo33-usSyGQI",
+      "plus_code": {
+        "compound_code": "RGGH+J2 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGGH+J2"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJ__8Pq3mc4jARo33-usSyGQI",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "888 ถนน พิบูลสงคราม, บางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8219275,
+          "lng": 100.5261268
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8232541302915,
+            "lng": 100.5274829302915
+          },
+          "southwest": {
+            "lat": 13.8205561697085,
+            "lng": 100.5247849697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "Jack&Dea Store ตลาดสยามยิปซี",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118118977833444138317\">Tawicha Udomdee</a>"
+          ],
+          "photo_reference": "CmRaAAAACg71rnJFAlvTVXX3C7bj2UOTs9MVzfxRxVNZ6zPjCdSR_MOz4ncIc22bnos4uElqywt58Se6vlQOh2MdHjGHtzv4IF2daaOl6lAEaYKm9Vm24WDeh4VO4xCb2eDStaLlEhDSF9X13qHKWNknxSd0FOWOGhSySWJ8gZEOGk4dEzZLCGgfPAxbLQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJeSPJIoGb4jARNjeCKBo0YsM",
+      "plus_code": {
+        "compound_code": "RGCG+QF กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGCG+QF"
+      },
+      "rating": 4,
+      "reference": "ChIJeSPJIoGb4jARNjeCKBo0YsM",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 33,
+      "vicinity": "244/183 ซอย กรุงเทพฯ-นนทบุรี 37 แขวง วงศ์สว่าง เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.830422,
+          "lng": 100.536787
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8318010302915,
+            "lng": 100.5381388802915
+          },
+          "southwest": {
+            "lat": 13.8291030697085,
+            "lng": 100.5354409197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "นิตยาไก่ย่าง ประชานุกูล",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2240,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105961536618295639547\">Emma Uncenser</a>"
+          ],
+          "photo_reference": "CmRaAAAAWoPXEFpLxsqZB_p-j5yVKDeRdFd2EH_CXH_hSP0-IOkFMSam3lkYmqzqusOk0gCGs2bLO0a7Byu24Gnt49YbYCtgDoMZQPwMhnV8zMbzrwamTKIXii2MjPTRmsM41uA7EhA-FEMHBw-N_RonueB6IFi1GhSOFMa1eMdXOQLG_DxgDiOqbQ-UWw",
+          "width": 3968
+        }
+      ],
+      "place_id": "ChIJPSq2lYac4jARoBvWBClXGgE",
+      "plus_code": {
+        "compound_code": "RGJP+5P กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGJP+5P"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJPSq2lYac4jARoBvWBClXGgE",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1130,
+      "vicinity": "2259 ถนนรัชดาภิเษก แขวง วงศ์สว่าง เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8307766,
+          "lng": 100.5386816
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8320902302915,
+            "lng": 100.5400275302915
+          },
+          "southwest": {
+            "lat": 13.8293922697085,
+            "lng": 100.5373295697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "About Beef",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 315,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101403214614290945672\">About Beef</a>"
+          ],
+          "photo_reference": "CmRaAAAAPopwGrAHuxYta7RbjAc4qx2coQit21xHQsCIRdb7WY2EjpknP_4V3E1lO4WuV5oxT7V4R7dbUTjvtE8wpJcYmkeJshixIVUGdhG6BqUX9hqXv0xSywhy9J7SvtlvRIxwEhAi9RdmE3LTdm0a_gjQAYmXGhRIFcuphnyKUzbtTaKIBQ6QfInKUA",
+          "width": 815
+        }
+      ],
+      "place_id": "ChIJ99nJ1H-b4jARcsfgL2wZdgw",
+      "plus_code": {
+        "compound_code": "RGJQ+8F กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGJQ+8F"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ99nJ1H-b4jARcsfgL2wZdgw",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 284,
+      "vicinity": "949/1 ถนนรัชดาภิเษก แขวง บางซื่อ เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8248589,
+          "lng": 100.5375664
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8261994302915,
+            "lng": 100.5389542802915
+          },
+          "southwest": {
+            "lat": 13.8235014697085,
+            "lng": 100.5362563197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "เจริญชัยไก่ตอน",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115926671810834617975\">สายันต์ เกรียงศักดาชัย</a>"
+          ],
+          "photo_reference": "CmRaAAAAeYseq7ZIveI61KBqUmQ2JL26VVRPkzwlUMI2y_1ACZYYSM0e2SPoVRXwlCIzOYZtR8GOZNyA2PP6pucfZB0NLKkyco97U-v-QqiHBfar2xHX-58ecvVIMcEVs56GvMYCEhCB0QTnhGArL5Mkxl3SC-vnGhSDLBJddORo9D3WRWFd7QeSmSKGTw",
+          "width": 3984
+        }
+      ],
+      "place_id": "ChIJ5aXVun2c4jARtqy0HyQrJ3I",
+      "plus_code": {
+        "compound_code": "RGFQ+W2 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGFQ+W2"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ5aXVun2c4jARtqy0HyQrJ3I",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 875,
+      "vicinity": "812/16 ซอย ประชาชื่น 24-25 ซอย ประชาชื่น 24 แขวง วงศ์สว่าง เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.823685,
+          "lng": 100.537355
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8250428802915,
+            "lng": 100.5387052802915
+          },
+          "southwest": {
+            "lat": 13.8223449197085,
+            "lng": 100.5360073197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "ชิมไทย",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102055827776038977723\">เสรี ที่เรามี</a>"
+          ],
+          "photo_reference": "CmRaAAAAJi5PCkGO_o1I9nPc_hYBk9Q5ZZmpKqOzifCGYYQ4Hiso8CousI7P6COdKd4yRn_GoRYZ29BRwDMSDZeZig1SBhEapG8BbO5BJ_RxMnQrtZrakCwX4wessgUQQw7MDla_EhCQBSozHhTI5rzpcnFVyQAlGhS_cFFjB4_DxG-r9nvX7AcOezwPQw",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJr63_r32c4jARLk5AWxLpwcE",
+      "plus_code": {
+        "compound_code": "RGFP+FW กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGFP+FW"
+      },
+      "rating": 4.2,
+      "reference": "ChIJr63_r32c4jARLk5AWxLpwcE",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 55,
+      "vicinity": "812/21 ซอย ประชาชื่น 24 แขวง วงศ์สว่าง เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8189679,
+          "lng": 100.535996
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8202963302915,
+            "lng": 100.5374876302915
+          },
+          "southwest": {
+            "lat": 13.8175983697085,
+            "lng": 100.5347896697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "Come Home Cafe ร้านอาหาร คำโฮม คาเฟ่",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106759193758994069597\">Come Home Cafe ร้านอาหาร คำโฮม คาเฟ่</a>"
+          ],
+          "photo_reference": "CmRaAAAA7oqXw3dgeZU1yKHrKDaOVS-mnHpAh3iUvlcX0qVo7z4UF30J1RRM1zHhfwiKRUZXw__3f9LbKl42w54cZtJRxfOXFgtfHjKE9JZyQXPqsMl4992EIo7FoHkCIVapsxxYEhCbruYzagU9KzTZ1MfFEceXGhR18sh38RSpEQBxx8XE6CdaR8SuGQ",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJ5-YV6Xuc4jARXI2YW2JufKw",
+      "plus_code": {
+        "compound_code": "RG9P+H9 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RG9P+H9"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5-YV6Xuc4jARXI2YW2JufKw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 86,
+      "vicinity": "4 คอนโดยูดีไลท์ 2 Shop ปาก ซอย ประชาชื่น 19 แขวง บางซื่อ เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8165113,
+          "lng": 100.5309926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8178634302915,
+            "lng": 100.5323523302915
+          },
+          "southwest": {
+            "lat": 13.8151654697085,
+            "lng": 100.5296543697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "อิ่มจัง",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111627972371969754614\">pomtrue True</a>"
+          ],
+          "photo_reference": "CmRaAAAAObG8R2A3l-8GSEaXNHc5DCa6eUGaErbBtnas_mhS-e-0Ib6Ht1M-rB5aCYTukA4B8u3kcf5g2pR1H8DZbHPPMs42CIZHP6iuPF4ZznHeg97eE5GqxkEr6d4yChaSUBlKEhCcfVIdO3jo8svZfwcHE5idGhSxGuPYcmzeouJ0Ty5S1MHjNTUZog",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJXXN7aXic4jAR2MwW81KILdI",
+      "plus_code": {
+        "compound_code": "RG8J+J9 กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RG8J+J9"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJXXN7aXic4jAR2MwW81KILdI",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 16,
+      "vicinity": "67 ถนน กรุงเทพ- นนทบุรี แขวง บางซื่อ เขตบางซื่อ"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.8373875,
+          "lng": 100.5371624
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.8383987302915,
+            "lng": 100.5381795802915
+          },
+          "southwest": {
+            "lat": 13.8357007697085,
+            "lng": 100.5354816197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "name": "salapao khunwen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106401758659134363367\">sirinan anekwiroj</a>"
+          ],
+          "photo_reference": "CmRaAAAAZ_nCvFG_WfiTZxbtSo77Btbbf5FyOmICN75pb1HuwHQjgwwflBgFegqv4T62eycpADTi0JUvn5oSy5KCZB9mjzFIjs9YsRi_ZVdi_Z1w4FPjsccrf7C2jEZFxgA_Zq6ZEhBG4zAEIKSUmsTU81rVuKczGhQSbfWV3T6YNia7i_efPB5OfjHFKQ",
+          "width": 959
+        }
+      ],
+      "place_id": "ChIJb7IfM5uc4jARC-MH8HU3dOM",
+      "plus_code": {
+        "compound_code": "RGPP+XV กรุงเทพมหานคร ประเทศไทย",
+        "global_code": "7P52RGPP+XV"
+      },
+      "reference": "ChIJb7IfM5uc4jARC-MH8HU3dOM",
+      "scope": "GOOGLE",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "vicinity": "ซอย ประชาชื่น 30 แขวง วงศ์สว่าง เขตบางซื่อ"
+    }
+  ],
+  "status": "OK"
+}
